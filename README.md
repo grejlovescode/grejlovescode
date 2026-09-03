@@ -1,6 +1,4 @@
-Yep — **one single embed/code block**, nothing split up:
-
-````md
+```md
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&repeat=true&width=700&height=80&lines=G+R+E+J;グレイ+%E2%80%A2+developer+%E2%80%A2+builder;静かな夜,+うるさいコード.;somewhere+between+anime+and+source+code." />
@@ -50,7 +48,7 @@ Yep — **one single embed/code block**, nothing split up:
 │   LOCATION  : somewhere.exe             │
 │                                         │
 └─────────────────────────────────────────┘
-````
+```
 
 <br>
 
